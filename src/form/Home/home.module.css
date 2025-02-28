@@ -1,0 +1,43 @@
+/* Overall container styling */
+.home_container {
+  font-family: "Arial", sans-serif;
+  padding: 24px 0px 6px 49px;
+  max-width: 800px;
+  margin: 24px 28px 43px 647px;
+  position: absolute;
+}
+
+.about {
+  color: #fe8507;
+  font-size: 15px;
+}
+/* Title Styling */
+.title {
+  margin-top: 2px;
+  font-size: 40px;
+  color: #aa2f00;
+  margin-bottom: 20px;
+}
+
+/* Description Text Styling */
+.description {
+  font-size: 17px;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 21px;
+}
+
+/* Button Styling */
+.cta_button {
+  display: block;
+  background-color: #fe8402; /* Evangadi-like blue */
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
